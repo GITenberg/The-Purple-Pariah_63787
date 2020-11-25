@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
     wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 63787-h/images/cover.jpg
 creator:
   author:
     agent_name: Tustin, Byron
     gutenberg_agent_id: '52602'
     url: http://www.gutenberg.org/2009/agents/52602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63787#The-Purple-Pariah
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
